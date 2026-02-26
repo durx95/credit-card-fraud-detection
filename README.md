@@ -54,4 +54,3 @@ The model was trained on an imbalanced dataset and deployed using Streamlit Clou
 ---
 
 ## 📂 Project Structure
->>>>>>> 5ecf31c (modified:   README.md)
