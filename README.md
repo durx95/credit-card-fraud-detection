@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 💳 Credit Card Fraud Detection using Machine Learning
 
 ## 📌 Project Overview
