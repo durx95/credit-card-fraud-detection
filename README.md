@@ -7,6 +7,8 @@ This project is a Machine Learning-based web application that detects fraudulent
 The model was trained on an imbalanced dataset and deployed using Streamlit Cloud.
 
 ---
+## 🚀 Live Demo
+🔗 https://durgesh-credit-card-fraud-detection-lab.streamlit.app
 
 ## 🚀 Features
 - Upload CSV file of transactions
