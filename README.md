@@ -10,6 +10,8 @@ The model was trained on an imbalanced dataset and deployed using Streamlit Clou
 ## 🚀 Live Demo
 🔗 https://durgesh-credit-card-fraud-detection-lab.streamlit.app
 
+---
+
 ## 🚀 Features
 - Upload CSV file of transactions
 - Automatic preprocessing (Scaling of Time and Amount)
